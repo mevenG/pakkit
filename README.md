@@ -2,7 +2,7 @@
 
 # pakkit
 
-A WIP packet monitor for Minecraft written in Electron.
+A WIP packet monitor for Minecraft 1.7.10 - 1.19 written in Electron.
 [Download](https://github.com/Heath123/pakkit/releases/latest)
 
 # Running manually
